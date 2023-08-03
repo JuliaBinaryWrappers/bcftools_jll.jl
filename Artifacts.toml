@@ -1,0 +1,80 @@
+[[bcftools]]
+arch = "aarch64"
+git-tree-sha1 = "e0930c16c59ea7495dae798a79a80fb9176c6184"
+os = "macos"
+
+    [[bcftools.download]]
+    sha256 = "483be986fe369abf5a2f1b832cfb3774db8bb273db43306e4be6f6675d650477"
+    url = "https://github.com/JuliaBinaryWrappers/bcftools_jll.jl/releases/download/bcftools-v1.14.0+0/bcftools.v1.14.0.aarch64-apple-darwin.tar.gz"
+[[bcftools]]
+arch = "aarch64"
+git-tree-sha1 = "27992f174bf1724f3f06f340f7ab5c57dbae1c0e"
+libc = "glibc"
+os = "linux"
+
+    [[bcftools.download]]
+    sha256 = "5f3927980dc3800740f9c6183cf8943842b7ec34bf18592acdcc7547556be2c2"
+    url = "https://github.com/JuliaBinaryWrappers/bcftools_jll.jl/releases/download/bcftools-v1.14.0+0/bcftools.v1.14.0.aarch64-linux-gnu.tar.gz"
+[[bcftools]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "24b7cae1c70b1f8c8e8efaedcb9c080a16e5c10f"
+libc = "glibc"
+os = "linux"
+
+    [[bcftools.download]]
+    sha256 = "362daf8ab76e9257261b2bbedb0e5dc61e029e69b51ebe1892ff975e4057a6ed"
+    url = "https://github.com/JuliaBinaryWrappers/bcftools_jll.jl/releases/download/bcftools-v1.14.0+0/bcftools.v1.14.0.armv6l-linux-gnueabihf.tar.gz"
+[[bcftools]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4104dba805a8dd0f5b4bf0d14929923d11986e7b"
+libc = "glibc"
+os = "linux"
+
+    [[bcftools.download]]
+    sha256 = "aa1f2f551f186385da2d6215cc5e1e969ff717a770c6965d326530f2abfb6959"
+    url = "https://github.com/JuliaBinaryWrappers/bcftools_jll.jl/releases/download/bcftools-v1.14.0+0/bcftools.v1.14.0.armv7l-linux-gnueabihf.tar.gz"
+[[bcftools]]
+arch = "i686"
+git-tree-sha1 = "6cc92ef0f751838d200eb13fbdb1b45c39438657"
+libc = "glibc"
+os = "linux"
+
+    [[bcftools.download]]
+    sha256 = "69c1b701dc6c357a0702146bfac52078b98bb483407beb4adcf17cfbc8610828"
+    url = "https://github.com/JuliaBinaryWrappers/bcftools_jll.jl/releases/download/bcftools-v1.14.0+0/bcftools.v1.14.0.i686-linux-gnu.tar.gz"
+[[bcftools]]
+arch = "powerpc64le"
+git-tree-sha1 = "5fab0a471b9a18bc9cfc74ea11cf7d40b4eb19e8"
+libc = "glibc"
+os = "linux"
+
+    [[bcftools.download]]
+    sha256 = "822efcdb8db408fd27d298e8e0797bebd9f5b8bcf64590aa44c95ca2b21a0617"
+    url = "https://github.com/JuliaBinaryWrappers/bcftools_jll.jl/releases/download/bcftools-v1.14.0+0/bcftools.v1.14.0.powerpc64le-linux-gnu.tar.gz"
+[[bcftools]]
+arch = "x86_64"
+git-tree-sha1 = "8a8d8fdde68ad6f9e4a12dff28bbdd3a4ab7a288"
+os = "macos"
+
+    [[bcftools.download]]
+    sha256 = "f07082484a6651b7e057182700e5cbc5c9d36660d0ebf4b61731711bb73d0b9b"
+    url = "https://github.com/JuliaBinaryWrappers/bcftools_jll.jl/releases/download/bcftools-v1.14.0+0/bcftools.v1.14.0.x86_64-apple-darwin.tar.gz"
+[[bcftools]]
+arch = "x86_64"
+git-tree-sha1 = "654bf254a07812ee7c5a4e96c8ee4795b7cc5660"
+libc = "glibc"
+os = "linux"
+
+    [[bcftools.download]]
+    sha256 = "5bfdba14cd03aeab769a3a5320919dcdfa5d5c61c0565d21dbff6ba3fd576b7e"
+    url = "https://github.com/JuliaBinaryWrappers/bcftools_jll.jl/releases/download/bcftools-v1.14.0+0/bcftools.v1.14.0.x86_64-linux-gnu.tar.gz"
+[[bcftools]]
+arch = "x86_64"
+git-tree-sha1 = "bd8c499890651db52d4149e411595cd28c219978"
+os = "freebsd"
+
+    [[bcftools.download]]
+    sha256 = "438cef98a5e047832d317b14adc66f0163ae25cb82d60140afdce78198035ce2"
+    url = "https://github.com/JuliaBinaryWrappers/bcftools_jll.jl/releases/download/bcftools-v1.14.0+0/bcftools.v1.14.0.x86_64-unknown-freebsd.tar.gz"
